@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<p>The best way is to start at the beginning </p>
+<p>"The only way to do great work is to love what you do."<b><i>Steve Jobs</b></i></p>
 
 <img src= "https://www.tabbykatz.com/hbnb.png" >
 
