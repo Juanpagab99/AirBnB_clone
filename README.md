@@ -1,4 +1,4 @@
-<h1 align="center">AirBnB clone - The console 💻</h1> <br>
+<h1 align="center">AirBnB clone - The console 💻🐍🐚</h1> <br>
 
 <div align="center">
 
