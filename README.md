@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<p>"The only way to do great work is to love what you do." <b><i>Steve Jobs</b></i></p>
+<p><b>"The only way to do great work is to love what you do."</b> <i>Steve Jobs</i></p>
 
 <img src= "https://www.tabbykatz.com/hbnb.png" >
 
@@ -21,4 +21,6 @@
 
 <h2 align="center">Command interpreter 📑</h2> <br>
 
-<h2 align="center">Authors 📑</h2> <br>
+<h2 align="center">Author 👦</h2> <br>
+- Juan Pablo Gaviria Barrera | [Github](https://github.com/Juanpagab99) | [Twiter](https://twitter.com/JuanPab27132211)
+<div dir="rtl">10/04/2021</div>
