@@ -1,6 +1,6 @@
-<h1 align="center">AirBnB clone - The console 💻🐍🐚</h1> <br>
+<h1>AirBnB clone - The console 💻🐍🐚</h1> <br>
 
-<div align="center">
+<div>
 
 <p><b>"The only way to do great work is to love what you do."</b> <i>Steve Jobs</i></p>
 
@@ -8,24 +8,24 @@
 
 </div>
 
-<h2 align="center">Table of contents📄</h2> <br>
+<h2>Table of contents📄</h2> <br>
 
 - [x] Description
 - [x] Command interpreter
 - [x] Authors
 
-<h2 align="center">Description 📑</h2> <br>
+<h2>Description 📑</h2> <br>
 
-In this project, as the first step of the AirBnB clone, a console was made that will allow you to control, manage or administer your AirBnB objects.
+In this project, as the first step of the AirBnB clone, a console was made that will allow you to control, manage or administer your AirBnB objects. This is a segment contains a fundamental concepts of higher level programming.
 
-<h3 align="center">Instalation</h3> <br>
+<h3>Instalation</h3> <br>
 
 - Clone this repository with: `git clone https://github.com/Juanpagab99/AirBnB_clone.git`
 - Access into de AirBnB directory: `cd AirBnB_clone`
 - Run the console (Interactively method): `./console.py`
 - Run the console (non-interecatively method): `echo "<command>" | ./console.py`
 
-<h2 align="center">Command interpreter 📑</h2> <br>
+<h2>Command interpreter 📑</h2> <br>
 
 It is like a shell only that it has its own specific characteristics, which are:
 
@@ -35,6 +35,6 @@ It is like a shell only that it has its own specific characteristics, which are:
 - Update attributes of an object
 - Destroy an object
 
-<h2 align="center">Author 👦🍫</h2> <br>
+<h2>Author 👦🍫</h2> <br>
 - Juan Pablo Gaviria Barrera | [Github] (https://github.com/Juanpagab99) | [Twiter](https://twitter.com/JuanPab27132211)
 <div dir="rtl">28/06/2021</div>
