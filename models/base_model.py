@@ -1,17 +1,35 @@
 #!/usr/bin/python3
 from uuid import uuid4
 from datetime import datetime
+import models
 
 
 class BaseModel:
     """Class Basemodel that defines
     all methods for other classes"""
 
-    def __init__(self):
+    def __init__(self, *args, **kwargs):
         """Initialization"""
-        self.id = str(uuid4())
-        self.created_at = datetime.now()
-        self.updated_at = datetime.now()
+        time = "%Y-%m-%dT%H:%M:%S.%f"
+        if kwargs:
+            for key, value in kwargs.items():
+                if key == "__class__":
+                    pass
+                else:
+                    setattr(self, key, value)
+            if id in kwargs.keys():
+                self.id = kwargs["id"]
+            if "created_at" in kwargs.keys():
+                self.created_at = datetime.strptime(kwargs["created_at"],
+                                                            time)
+            if "updated_at" in kwargs.keys():
+                self.updated_at = datetime.strptime(kwargs["updated_at"],
+                                                            time)
+
+        else:
+            self.id = str(uuid4())
+            self.created_at = datetime.now()
+            self.updated_at = datetime.now()
 
     def __str__(self):
         """print the following format"""
