@@ -16,7 +16,7 @@
 
 <h2>Description 📑</h2> <br>
 
-In this project, as the first step of the AirBnB clone, a console was made that will allow you to control, manage or administer your AirBnB objects. This is a segment contains a fundamental concepts of higher level programming.
+In this project, as the first step of the AirBnB clone, a console was made that will allow you to control, manage or administer your AirBnB objects. This is a segment that contains a fundamental concepts of higher level programming.
 
 <h3>Instalation</h3> <br>
 
