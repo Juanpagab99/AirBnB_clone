@@ -11,6 +11,7 @@
 <h2>Table of contents📄</h2> <br>
 
 - [x] Description
+- [x] How to start the console
 - [x] Command interpreter
 - [x] Authors
 
@@ -18,12 +19,16 @@
 
 In this project, as the first step of the AirBnB clone, a console was made that will allow you to control, manage or administer your AirBnB objects. This is a segment that contains a fundamental concepts of higher level programming.
 
+<h2>How to start the console 📑</h2> <br>
+
 <h3>Instalation</h3> <br>
 
 - Clone this repository with: `git clone https://github.com/Juanpagab99/AirBnB_clone.git`
 - Access into de AirBnB directory: `cd AirBnB_clone`
 - Run the console (Interactively method): `./console.py`
 - Run the console (non-interecatively method): `echo "<command>" | ./console.py`
+
+<h3>Instalation</h3> <br>
 
 <h2>Command interpreter 📑</h2> <br>
 
