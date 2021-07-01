@@ -48,6 +48,7 @@ Quit command to exit the program
 (hbnb)
 (hbnb) quit
 $
+```
 
 <h2>Command interpreter 📑</h2> <br>
 
@@ -62,4 +63,3 @@ It is like a shell only that it has its own specific characteristics, which are:
 <h2>Author 👦🍫</h2> <br>
 - Juan Pablo Gaviria Barrera | [Github] (https://github.com/Juanpagab99) | [Twiter](https://twitter.com/JuanPab27132211)
 <div dir="rtl">28/06/2021</div>
-```
