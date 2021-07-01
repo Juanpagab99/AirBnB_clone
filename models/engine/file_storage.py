@@ -4,6 +4,11 @@ from models.user import User
 from models.base_model import BaseModel
 import json
 from models.user import User
+from models import state
+from models import city
+from models import amenity
+from models import review
+from models import place
 classes = {
     "User": User,
     "Place": Place,
