@@ -50,6 +50,19 @@ Quit command to exit the program
 $
 ```
 
+It should work in non_interactive mode:
+
+```
+$ echo "help" | ./console.py
+(hbnb)
+
+Documented commands (type help <topic>):
+========================================
+EOF  help  quit
+(hbnb)
+$
+```
+
 <h2>Command interpreter 📑</h2> <br>
 
 It is like a shell only that it has its own specific characteristics, which are:
