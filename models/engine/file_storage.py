@@ -5,7 +5,6 @@ from models.base_model import BaseModel
 import json
 from models.user import User
 classes = {
-    "BaseModel": BaseModel
     "User": User
 }
 
