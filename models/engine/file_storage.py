@@ -5,11 +5,11 @@ from models.base_model import BaseModel
 import json
 from models.user import User
 classes = {
-    "User": User
-    "Place": Place
-    "State": State
-    "City": City
-    "Amenity": Amenity
+    "User": User,
+    "Place": Place,
+    "State": State,
+    "City": City,
+    "Amenity": Amenity,
     "Review": Review
 }
 
