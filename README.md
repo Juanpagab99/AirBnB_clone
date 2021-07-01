@@ -50,7 +50,7 @@ Quit command to exit the program
 $
 ```
 
-It should work in non_interactive mode:
+And it should work in non_interactive mode:
 
 ```
 $ echo "help" | ./console.py
