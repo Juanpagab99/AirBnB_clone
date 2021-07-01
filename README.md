@@ -19,6 +19,29 @@
 
 In this project, as the first step of the AirBnB clone, a console was made that will allow you to control, manage or administer your AirBnB objects. This is a segment that contains a fundamental concepts of higher level programming.
 
+<h2>Command interpreter 📑</h2> <br>
+
+It is like a shell only that it has its own specific characteristics, which are:
+
+- Create a new object (ex: a new User or a new Place)
+- Retrieve an object from a file, a database etc…
+- Do operations on objects (count, compute stats, etc…)
+- Update attributes of an object
+- Destroy an object
+
+All of the above, works with the following commands
+
+| Command   | Description                                                                                                       |
+| --------- | ----------------------------------------------------------------------------------------------------------------- |
+| `create`  | Create a new instance of Class-name, saves it and print the id.                                                   |
+| `show`    | Prints the string representation of an instance based on the class-name and id.                                   |
+| `destroy` | Deletes an instance based on the class name and id.                                                               |
+| `all`     | Prints all string representation of all instances based or not on the class name.                                 |
+| `update`  | Updates an instance based on the class name and id by adding or updating attribute                                |
+| `EOF`     | Clean method to logs out the terminal.                                                                            |
+| `quit`    | Quit command to exit the program                                                                                  |
+| `help `   | this action is provided by default by cmd but you should keep it updated and documented as you work through tasks |
+
 <h2>How to start the console 💻📑</h2> <br>
 
 <h3>Instalation</h3> <br>
@@ -62,16 +85,6 @@ EOF  help  quit
 (hbnb)
 $
 ```
-
-<h2>Command interpreter 📑</h2> <br>
-
-It is like a shell only that it has its own specific characteristics, which are:
-
-- Create a new object (ex: a new User or a new Place)
-- Retrieve an object from a file, a database etc…
-- Do operations on objects (count, compute stats, etc…)
-- Update attributes of an object
-- Destroy an object
 
 <h2>Author 👦🍫</h2> <br>
 - Juan Pablo Gaviria Barrera | [Github] (https://github.com/Juanpagab99) | [Twiter](https://twitter.com/JuanPab27132211)
