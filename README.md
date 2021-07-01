@@ -21,7 +21,7 @@ In this project, as the first step of the AirBnB clone, a console was made that 
 
 <h2>Command interpreter 📑</h2> <br>
 
-It is like a shell only that it has its own specific characteristics, which are:
+A command line interpreter is any program that allows the entering of commands and then executes those commands to the operating system. It is like a shell only that it has its own specific characteristics, which are:
 
 - Create a new object (ex: a new User or a new Place)
 - Retrieve an object from a file, a database etc…
