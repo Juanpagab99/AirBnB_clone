@@ -7,11 +7,11 @@ from models.engine.file_storage import FileStorage
 from models import storage
 import shlex
 from models.user import User
-from models import state
-from models import city
-from models import amenity
-from models import review
-from models import place
+from models.state import State
+from models.city import City
+from models.amenity import Amenity
+from models.review import Review
+from models.place import Place
 classes = {
     "BaseModel": BaseModel,
     "User": User,
