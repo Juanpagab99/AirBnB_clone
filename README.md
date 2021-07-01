@@ -29,7 +29,7 @@ It is like a shell only that it has its own specific characteristics, which are:
 - Update attributes of an object
 - Destroy an object
 
-All of the above, works with the following commands
+All of the above, works with the following commands:
 
 | Command   | Description                                                                                                       |
 | --------- | ----------------------------------------------------------------------------------------------------------------- |
