@@ -41,3 +41,10 @@ class FileStorage:
                                                   ["__class__"]](**data[key])
         except:
             return
+
+    def find_object(cls, id):
+        """Returns obj id"""
+        objs = cls.__objects
+        for obj in objs.values():
+            if obj.id == id:
+                return obj
