@@ -17,7 +17,7 @@
 
 <h2>Description 📑</h2> <br>
 
-In this project, as the first step of the AirBnB clone, a console was made that will allow you to control, manage or administer your AirBnB objects. This is a segment that contains a fundamental concepts of higher level programming.
+In this project, as the first step of the AirBnB clone, a console was made that will allow you to control, manage or administer your AirBnB objects. This is a segment that contains a fundamental concepts of higher level programming. The goal of the project is make a simple copy of the AirBnB website.
 
 <h2>Command interpreter 📑</h2> <br>
 
@@ -38,7 +38,7 @@ All of the above, works with the following commands:
 | `destroy` | Deletes an instance based on the class name and id.                                                               |
 | `all`     | Prints all string representation of all instances based or not on the class name.                                 |
 | `update`  | Updates an instance based on the class name and id by adding or updating attribute                                |
-| `EOF`     | Clean method to logs out the terminal.                                                                            |
+| `EOF`     | Clean method to logs out the terminal with CTRL-D or write EOF in the console.                                    |
 | `quit`    | Quit command to exit the program                                                                                  |
 | `help `   | this action is provided by default by cmd but you should keep it updated and documented as you work through tasks |
 
