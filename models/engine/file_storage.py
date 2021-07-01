@@ -6,6 +6,11 @@ import json
 from models.user import User
 classes = {
     "User": User
+    "State": State
+    "City": City
+    "Amenity": Amenity
+    "Review": Review
+    "Place": Place
 }
 
 
