@@ -1,9 +1,12 @@
 #!/usr/bin/python3
 """This file contains the Filestorage class"""
+from models.user import User
 from models.base_model import BaseModel
 import json
+from models.user import User
 classes = {
     "BaseModel": BaseModel
+    "User": User
 }
 
 
