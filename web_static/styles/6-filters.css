@@ -1,0 +1,30 @@
+.popover{
+	visibility: hidden;
+	background-color: #FAFAFA;
+	border: 1px solid #DDDDDD;
+	border-radius: 4px;
+	padding-bottom: 5%;
+	margin-bottom: 30px;
+	margin-top: 7%;
+	margin-left: -20%;
+}
+.popover h2{
+	font-size: 16px;
+}
+ul{
+	list-style: none;
+}
+li{
+	padding-bottom: 2%;
+}
+.amenities .popover{
+	padding-top: 13%;
+}
+.locations:hover > .popover{
+	visibility: visible;
+	position: relative;
+}
+.amenities:hover > .popover{
+	visibility: visible;
+	position: relative;
+}

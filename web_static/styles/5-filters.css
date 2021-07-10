@@ -1,0 +1,33 @@
+.locations{
+	height: 100%;
+	width: 25%;
+	padding-left: 50px;
+	border-right: 1px solid #DDDDDD;
+	float: left;
+	text-align: left;
+}
+.locations h3{
+	font-weight: 600;
+	margin: 12px 0 5px 0;
+}
+.locations h4{
+	font-weight: 400;
+	font-size: 14px;
+	margin: 0 0 0 0;
+}
+.amenities{
+	height: 100%;
+	width: 25%;
+	padding-left: 50px;
+	float: left;
+	text-align: left;
+}
+.amenities h3{
+	font-weight: 600;
+	margin: 12px 0 5px 0;
+}
+.amenities h4{
+	font-weight: 400;
+	font-size: 14px;
+	margin: 0 0 0 0;
+}
